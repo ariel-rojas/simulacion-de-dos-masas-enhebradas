@@ -1,4 +1,3 @@
-# simulacion-de-dos-masas-enhebradas
 Simulación de dos masas enhebradas.
 =============
 
